@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ifeanyi Kalu Ukoha - Portfolio Homepage",
+  "description": "Portfolio homepage of Ifeanyi Kalu Ukoha, Computer Science student at Miva Open University, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
